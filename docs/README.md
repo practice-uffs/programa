@@ -1,147 +1,104 @@
-# Docs
+# Introdução
 
-This docs are powered by [docsify](https://docsify.js.org). To test it locally, just run anything that servers the `docs` folder in a webserver.
+Esse site contém instruções que cada equipe (e seus integrantes) do PRACTICE deve seguir para produzir conteúdo. Utilize o menu do lado esquerdo para saber mais sobre um determinado assunto.
 
-Using docsify itself, first install `docsify-cli`:
+## Links rápidos
 
-```
-npm i docsify-cli -g
-```
+* [Pasta do Google Drive do programa](https://drive.google.com/drive/folders/1awqYC9rMMGVIrrYheihE5rSf1lHHisJw)
+* [Lista de repositórios/projetos do programa no Github](https://github.com/practice-uffs)
+* [Repositório principal do programa no Github](https://github.com/practice-uffs/programa)
+* [Quadro com tarefas da sprint](https://github.com/orgs/practice-uffs/projects/1)
+* [Site oficial do programa](https://practice.uffs.edu.br) (provisoriamente é [practice.uffs.cc](https://practice.uffs.cc]))
+* [Identidade visual do programa](https://drive.google.com/drive/folders/1ymOvitNBOkBeU2RStVchrD6Rg8Ar4FB-)
 
-then run:
+## Os 10 mandamentos da equipe
 
-```
-docsify serve docs
-```
+1. **Nunca** usarei materiais que não informam sua licença de uso;
+2. Só usarei materiais licenciados como: [domínio público](https://creativecommons.org/share-your-work/public-domain/cc0/) (CC0 ou _public domain_), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.pt), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt), ou [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt);
+3. Para cada material que utilizar, anotarei a) fonte/link, b) nome do autor(a) e c) licença;
+4. Utilizarei apenas softwares grátis ou de código-aberto para criar conteúdo;
+5. _"Se não estiver no Github, isso não existe."_;
+6. Tentarei usar formatos de documentos na núvem que outros consigam colaborar ao mesmo tempo comigo, ex.: Google Docs;
+7. Colocarei dados, documentos e arquivos no [Google Drive do programa](https://drive.google.com/drive/folders/1awqYC9rMMGVIrrYheihE5rSf1lHHisJw);
+8. Farei discussões/questionamentos das tarefas somente via comentários das issues;
+9. Usarei WhatsApp/Telegram para agilizar a comunicação, não para substituir discussões nos issues;
+10. Participarei das reuniões de sprint todas as sexta-feiras.
 
-Alternatively, you can use the built-in Python webserver:
+# Onde consigo coisas?
 
-```
-cd docs && python -m SimpleHTTPServer 3000
-```
+## Fotografias
 
-# Adding more pages to this docs
+### [unsplash.com/](https://unsplash.com/)
 
-If you need more pages, you can simply create more markdown files in your docsify directory. If you create a file named `guide.md`, then it is accessible via `/#/guide`.
+Todas as imagens listadas nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho alheio, mencione a fonte como `unsplash.com`.
 
-For example, the directory structure is as follows:
 
-```text
-.
-└── docs
-    ├── README.md
-    ├── guide.md
-    └── zh-cn
-        ├── README.md
-        └── guide.md
-```
+## Ilustrações
 
-Matching routes
+### [undraw.co](https://undraw.co/illustrations)
 
-```text
-docs/README.md        => http://domain.com
-docs/guide.md         => http://domain.com/#/guide
-docs/zh-cn/README.md  => http://domain.com/#/zh-cn/
-docs/zh-cn/guide.md   => http://domain.com/#/zh-cn/guide
-```
+Todas as ilustrações listadas nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho alheio, mencione a fonte como `undraw.co`.
 
-## Sidebar
+!> Importante: como cor principal da ilustração, escolha uma das cores oficiais do programa.
 
-In order to have sidebar, then you can create your own `_sidebar.md` (see [this documentation's sidebar](https://github.com/docsifyjs/docsify/blob/master/docs/_sidebar.md) for an example):
+### [Kenney Assets](https://www.kenney.nl/assets)
 
-First, you need to set `loadSidebar` to **true**. Details are available in the [configuration paragraph](configuration.md#loadsidebar).
+Todas as ilustrações listadas nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho do autor, mencione a fonte como `www.kenney.nl`.
 
-```html
-<!-- index.html -->
+### [drawkit.io](https://www.drawkit.io)
 
-<script>
-  window.$docsify = {
-    loadSidebar: true
-  }
-</script>
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-```
+As ilustrações listadas nesse site são licenciadas como MIT, que permite o uso contanto que o mandamento `3` seja seguido.
 
-Create the `_sidebar.md`:
+### [opengameart.org](https://opengameart.org)
 
-```markdown
-<!-- docs/_sidebar.md -->
+Esse site contém uma infinidade de ilustrações com licenças diversas. Para creditar a ilustração/arte, escolha a que você quiser, na página de download, à direita, o autor(a) estará listado com a licença:
 
-* [Home](/)
-* [Guide](guide.md)
-```
+![Informação do autor de uma arte no site OpenGameArt](_media/opengameart-credit.png)
 
-You need to create a `.nojekyll` in `./docs` to prevent GitHub Pages from ignoring files that begin with an underscore.
+Copie as informações do autor e licença conforme os mandamentos `2` e `3`.
 
-## Nested Sidebars
+## Ícones
 
-You may want the sidebar to update with only navigation to reflect the current directory. This can be done by adding a `_sidebar.md` file to each folder.
+### [game-icons.net](https://game-icons.net/)
 
-`_sidebar.md` is loaded from each level directory. If the current directory doesn't have `_sidebar.md`, it will fall back to the parent directory. If, for example, the current path is `/guide/quick-start`, the `_sidebar.md` will be loaded from `/guide/_sidebar.md`.
+Muitos ícones customizáveis licenciados como [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.pt). Ao clicar em um ícone, as informações de atribuição e licença são mostrados no topo da página.
 
-You can specify `alias` to avoid unnecessary fallback.
+### [flaticon.com](https://www.flaticon.com)
 
-```html
-<script>
-  window.$docsify = {
-    loadSidebar: true,
-    alias: {
-      '/.*/_sidebar.md': '/_sidebar.md'
-    }
-  }
-</script>
-```
+Todos os ícones que não forem pagos (_premium_) podem ser utilizados, contanto que sejam creditados de uma forma especial. Para creditar os ícones, escolha o ícone que você quer, na página de download do ícone, à esquerda, o autor(a) estará listado conforme a figura abaixo:
 
-!> You can create a `README.md` file in a subdirectory to use it as the landing page for the route.
+![Informação do autor de um ícone no site Flaticon](_media/flaticon-credit.png)
 
-## Set Page Titles from Sidebar Selection
+Copie o link para a página do autor(a) (clique com o botão direito do mouse no nome do autor(a), depois `Copiar link`), depois use ele na junto com o nome do autor(a) na frase:
 
-A page's `title` tag is generated from the _selected_ sidebar item name. For better SEO, you can customize the title by specifying a string after the filename.
+> <pre>Icon made by [nome autor](LINK_PARA_PAGINA_AUTOR) from www.flaticon.com</pre>
 
-```markdown
-<!-- docs/_sidebar.md -->
-* [Home](/)
-* [Guide](guide.md "The greatest guide in the world")
-```
+No exemplo da figura acima, o autor é *Freepik* e o link é `https://www.flaticon.com/authors/freepik`, então o texto de crédito fica:
 
-## Table of Contents
+> <pre>Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com</pre>
 
-Once you've created `_sidebar.md`, the sidebar content is automatically generated based on the headers in the markdown files.
 
-A custom sidebar can also automatically generate a table of contents by setting a `subMaxLevel`, compare [subMaxLevel configuration](configuration.md#submaxlevel).
+## Músicas
 
-```html
-<!-- index.html -->
+## Animações
 
-<script>
-  window.$docsify = {
-    loadSidebar: true,
-    subMaxLevel: 2
-  }
-</script>
-<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-```
+# Que ferramentas eu uso?
 
-## Ignoring Subheaders
+## Imagem
 
-When `subMaxLevel` is set, each header is automatically added to the table of contents by default. If you want to ignore a specific header, add `{docsify-ignore}` to it.
+## Texto
 
-```markdown
-# Getting Started
+## Audio
 
-## Header {docsify-ignore}
+## Vídeo
 
-This header won't appear in the sidebar table of contents.
-```
+## Identidade visual do programa
 
-To ignore all headers on a specific page, you can use `{docsify-ignore-all}` on the first header of the page.
+* [Logos e arquivos em geral](https://drive.google.com/drive/folders/1ymOvitNBOkBeU2RStVchrD6Rg8Ar4FB-)
+* Cores
 
-```markdown
-# Getting Started {docsify-ignore-all}
+# Fluxo para execução de tarefas
 
-## Header
+# Equipes e membros
 
-This header won't appear in the sidebar table of contents.
-```
-
-Both `{docsify-ignore}` and `{docsify-ignore-all}` will not be rendered on the page when used.
+# Serviços prestados
