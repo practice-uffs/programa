@@ -22,6 +22,14 @@ section.cover {
     border-bottom: solid 1px #171d20;
 }
 
+h2 span {
+    color: rgb(255, 201, 101)
+}
+
+h2 i {
+    color: rgb(255, 190, 68);
+    font-weight: 300;
+}
 
 /* LAYOUT */
 
