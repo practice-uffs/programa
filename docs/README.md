@@ -1,6 +1,6 @@
 # Introdução
 
-Esse site contém instruções que cada equipe (e seus integrantes) do PRACTICE deve seguir para produzir conteúdo. Utilize o menu do lado esquerdo para saber mais sobre um determinado assunto.
+Esse site contém instruções que cada equipe (e seus integrantes) do [PRACTICE](https://practice.uffs.cc) deve seguir para produzir conteúdo. Utilize o menu do lado esquerdo para saber mais sobre um determinado assunto.
 
 ## Links rápidos
 
@@ -24,18 +24,18 @@ Esse site contém instruções que cada equipe (e seus integrantes) do PRACTICE 
 9. Usarei WhatsApp/Telegram para agilizar a comunicação, não para substituir discussões nos issues;
 10. Participarei das reuniões de sprint todas as sexta-feiras.
 
-# Onde consigo coisas?
+# Onde consigo materiais?
 
 ## Fotografias
 
-### [unsplash.com/](https://unsplash.com/)
+### [Unsplash](https://unsplash.com/)
 
 Todas as imagens listadas nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho alheio, mencione a fonte como `unsplash.com`.
 
 
-## Ilustrações
+## Ilustrações (cartoon)
 
-### [undraw.co](https://undraw.co/illustrations)
+### [Undraw](https://undraw.co/illustrations)
 
 Todas as ilustrações listadas nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho alheio, mencione a fonte como `undraw.co`.
 
@@ -45,11 +45,11 @@ Todas as ilustrações listadas nesse site são domínio público (_CC0 ou _publ
 
 Todas as ilustrações listadas nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho do autor, mencione a fonte como `www.kenney.nl`.
 
-### [drawkit.io](https://www.drawkit.io)
+### [DrawKit](https://www.drawkit.io)
 
-As ilustrações listadas nesse site são licenciadas como MIT, que permite o uso contanto que o mandamento `3` seja seguido.
+As ilustrações listadas nesse site são licenciadas como MIT, que permite o uso contanto que os mandamentos `2` e `3` sejam seguido.
 
-### [opengameart.org](https://opengameart.org)
+### [Open Game Art](https://opengameart.org)
 
 Esse site contém uma infinidade de ilustrações com licenças diversas. Para creditar a ilustração/arte, escolha a que você quiser, na página de download, à direita, o autor(a) estará listado com a licença:
 
@@ -63,7 +63,7 @@ Copie as informações do autor e licença conforme os mandamentos `2` e `3`.
 
 Muitos ícones customizáveis licenciados como [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.pt). Ao clicar em um ícone, as informações de atribuição e licença são mostrados no topo da página.
 
-### [flaticon.com](https://www.flaticon.com)
+### [Flaticon](https://www.flaticon.com)
 
 Todos os ícones que não forem pagos (_premium_) podem ser utilizados, contanto que sejam creditados de uma forma especial. Para creditar os ícones, escolha o ícone que você quer, na página de download do ícone, à esquerda, o autor(a) estará listado conforme a figura abaixo:
 
@@ -77,20 +77,59 @@ No exemplo da figura acima, o autor é *Freepik* e o link é `https://www.flatic
 
 > <pre>Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com</pre>
 
+### [The Noun Project](https://thenounproject.com/)
 
-## Músicas
+Muitos ícones licenciados como [CC BY](https://creativecommons.org/licenses/by/3.0/deed.pt). Ao clicar em um ícone, as informações de atribuição e licença são mostrados no topo da página.
+
+## Músicas e sons
+
+### [Youtube Audio Library](https://www.youtube.com/audiolibrary/music?nv=1)
+
+Muitas músicas que podem ser utilizadas. Ao escolher uma música, clique nela para obter as informações do autor(a).
+
+### [Open Game Art](https://opengameart.org)
+
+Esse site contém uma infinidade de músicas e efeitos sonoros. Para creditar o material, escolha o que você quiser, e na página de download, à direita, o autor(a) estará listado com a licença:
+
+![Informação do autor de uma arte no site OpenGameArt](_media/opengameart-credit.png)
+
+Copie as informações do autor e licença conforme os mandamentos `2` e `3`.
 
 ## Animações
+
+### [Lottie Files](https://lottiefiles.com)
+
+Todas as animações que *não* forem listadas como `Marketplace Packs` podem ser utilizadas se os autores forem creditados.
 
 # Que ferramentas eu uso?
 
 ## Imagem
 
+Recomendamos que você use as seguintes ferramentas para trabalhar com imagens (em ordem de preferência, se conseguir realizar o trabalho):
+
+* [Google Slides](https://docs.google.com/presentation) ou [Google Drawings](https://docs.google.com/drawings)
+* [Photopea](https://www.photopea.com)
+* [Gimp](https://www.gimp.org)
+
 ## Texto
+
+* [Google Docs](https://docs.google.com/document/d/1q43mfXfAL2aV9DlofWD529itIT8UwIHvVlQY5wDhsyg/edit)
 
 ## Audio
 
+* [Audacity](https://www.audacityteam.org)
+
 ## Vídeo
+
+Para edição/criação de vídeos, use o seguinte (em ordem de preferência, se conseguir realizar o trabalho):
+
+* [Shotcut](https://shotcut.org)
+* [OpenShot](https://www.openshot.org)
+
+Se precisar gravar conteúdo da tela do computador, use um dos seguintes:
+
+* [OBS Studio](https://obsproject.com)
+* [ShareX](https://getsharex.com) 
 
 ## Identidade visual do programa
 
