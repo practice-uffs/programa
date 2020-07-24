@@ -36,19 +36,19 @@ Esse site contém instruções que cada equipe (e seus integrantes) do [PRACTICE
 
 ### [:fas fa-chevron-right: Unsplash](https://unsplash.com/)
 
-Todas as imagens listadas nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho alheio, mencione a fonte como `unsplash.com`.
+As imagens listadas nesse site são domínio público (CC0 ou _public domain_), então elas podem ser usadas livremente, inclusive sem creditar autoria. Por respeito ao trabalho alheio, mencione a fonte como `unsplash.com`.
 
 ## :far fa-image: Ilustrações (cartoon)
 
 ### [:fas fa-chevron-right: Undraw](https://undraw.co/illustrations)
 
-Todas as ilustrações listadas nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho alheio, mencione a fonte como `undraw.co`.
+As ilustrações listadas nesse site são domínio público (CC0 ou _public domain_), então elas podem ser usadas livremente, inclusive sem creditar autoria. Por respeito ao trabalho alheio, mencione a fonte como `undraw.co`.
 
 !> Importante: como cor principal da ilustração, escolha uma das cores oficiais do programa.
 
 ### [:fas fa-chevron-right: Kenney Assets](https://www.kenney.nl/assets)
 
-Todas as ilustrações listadas nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho do autor, mencione a fonte como `www.kenney.nl`.
+As ilustrações listadas nesse site são domínio público (CC0 ou _public domain_), então elas podem ser usadas livremente, inclusive sem creditar autoria. Por respeito ao trabalho do autor, mencione a fonte como `www.kenney.nl`.
 
 ### [:fas fa-chevron-right: DrawKit](https://www.drawkit.io)
 
@@ -90,7 +90,7 @@ Muitos ícones licenciados como [CC BY](https://creativecommons.org/licenses/by/
 
 ### [:fas fa-chevron-right: Youtube Audio Library](https://www.youtube.com/audiolibrary/music?nv=1)
 
-Muitas músicas que podem ser utilizadas. Ao escolher uma música, clique nela para obter as informações do autor(a).
+Músicas diversas categorizadas por tema, ritmo, etc. Ao escolher uma música, clique nela para obter as informações do autor(a).
 
 ### [:fas fa-chevron-right: Open Game Art](https://opengameart.org)
 
@@ -104,17 +104,17 @@ Copie as informações do autor e licença conforme os mandamentos `2` e `3`.
 
 ### [:fas fa-chevron-right: Lottie Files](https://lottiefiles.com)
 
-Todas as animações que *não* forem listadas como `Marketplace Packs` podem ser utilizadas se os autores forem creditados.
+As animações que *não* forem listadas como `Marketplace Packs` podem ser utilizadas se os autores forem creditados.
 
 ### [:fas fa-chevron-right: Codepen](https://codepen.io/)
 
-Diversas animações sobre vários assuntos, licenciadas como [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt). Copie as informações do autor e licença conforme os mandamentos `2` e `3`.
+Animações sobre vários assuntos, licenciadas como [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt). Copie as informações do autor e licença conforme os mandamentos `2` e `3`.
 
 ## :fas fa-photo-video: Vídeos
 
 ### [:fas fa-chevron-right: Coverr](https://coverr.co)
 
-Todos os vídeos listados nesse site são domínio público (_CC0 ou _public domain_), então elas podem ser usadas livremente (inclusive sem creditar o autor(a)). Por respeito ao trabalho alheio, mencione a fonte como `coverr.co`.
+Os vídeos listados nesse site são domínio público (CC0 ou _public domain_), então elas podem ser usadas livremente, inclusive sem creditar autoria. Por respeito ao trabalho alheio, mencione a fonte como `coverr.co`.
 
 # :fas fa-tools: Que ferramentas eu uso?
 
@@ -158,37 +158,57 @@ onde `repositorio` é o nome do repositório que você está trabalhando (por ex
 
 Se a tarefa envolver trabalho com alguém de *fora da equipe do projeto*, como um cliente ou colaborador, a pasta da referida tarefa no Google Drive deve conter outras duas pastas dentro dela: `entrada` e `saída`. A pasta `entrada` você poderá compartilhar com o colaborador para que arquivos sejam enviados para a equipe PRACTICE. A pasta `saída` conterá somente o(s) arquivo(s) que o colaborador deve receber como resultado da tarefa.
 
-## Como reportar andamento
+## Fluxo de andamento das tarefas (sem cliente)
 
 Para trabalhar em uma tarefa e reportar andamento, o fluxo é:
 
-1. Abra a issue da tarefa no Github;
-2. Escolha o seu usuário do Github como responsável pela tarefa (`Assignees`, canto direito);
-3. Se a tarefa resultar em algum material/arquivo, crie a pasta da tarefa dentro do [Tarefas no Google Drive](https://drive.google.com/drive/folders/1aBjyA92_IdiPJokAJyBF9HtIKzMIVqvQ);
-4. Se precisar discutir a tarefa ou pedir opinião, use os comentários da issue (dica: você pode solicitar comentário de membros com `@`, ex. `@dovyski`.)
-5. Quando você terminar a tarefa, *feche* ela (botão `Clone` no final);
-6. Se a tarefa não for re-aberta em no máximo 3 dias úteis, ela está pronta :cake:
- * Se a tarefa for reaberta, haverá comentários sobre o que fazer. Discuta e execute eles, depois siga o passo `5` em diante.
+* Navegue até a issue da tarefa no Github. As equipe envolvidas nessa tarefa/issue serão indicadas pelas labels:
+  * `equipe:con-media`
+  * `equipe:con-material`
+  * `equipe:dev`
+  * Uma issue pode envolver mais de uma equipe (trabalho conjunto).
+* Escolha o seu usuário do Github como responsável pela tarefa (`Assignees`, canto direito);
+* Se a tarefa resultar em algum material/arquivo, crie a pasta da tarefa dentro do [Tarefas no Google Drive](https://drive.google.com/drive/folders/1aBjyA92_IdiPJokAJyBF9HtIKzMIVqvQ);
+* Se precisar discutir a tarefa ou pedir opinião, use os comentários da issue (dica: você pode solicitar comentário de membros com `@`, ex. `@dovyski`.)
+* Quando você terminar a tarefa, mencione o(a) chefe da sua equipe para avaliação.
+* Depois do aval do(a) chefe de equipe, adicione os labels para revisão (conforme necessário):
+  * `texto:revisar` - revisar o texto do material;
+  * `gráfico:revisar` - revisar os gráficios e visuais do material;
+  * `técnico:revisar` - revisar o conteúdo técnico (corretude) do material;
+  * Se por acaso houver muito pouco texto/gráfico/técnico para revisar, você pode colocar a label `*:ok` direto, ex.: `texto:ok` para indicar que o texto já está ok.
+* Se a revisão for necessária, a pessoa que começar a revisar a tarefa adiciona os labels abaixo (conforme o que está sendo revisado):
+  * `texto:emrevisão`
+  * `gráfico:emrevisão`
+  * `técnico:emrevisão`
+* Nesse ponto, podem existir mudanças no material (solicitadas por quem fez a revisão), então as labels `*:revisar` podem ser recolocadas.
+* Conforme as revisões terminarem (e forem aprovadas), os labels abaixo serão colocados:
+  * `texto:ok`
+  * `gráfico:ok`
+  * `técnico:ok`
+  * `gerência:ok`
+* Quando a tarefa tiver OK para texto, gráfico, técnico e gerência, a issue pode ser fechada.
+* Se a tarefa for reaberta, haverá comentários sobre o que fazer. Discuta e execute eles. Caso contrário, está tudo certo.
+
+## Fluxo de andamento das tarefas (com cliente)
+
+O fluxo das tarefas de cliente é a mesma, com a diferença que quando o cliente precisa opinar, as seguintes tags devem ser usadas:
+
+* `cliente:revisar` - cliente precisa revisar o material criado até o momento
+* `cliente:revisando` - cliente está revisando o material
+* `cliente:okrevisão` - cliente revisou e aprovou o material criado até o momento
+
+Conforme o fluxo de cada equipe, o cliente pode revisar o material N vezes. Quando o cliente revisar o material e ele estiver pronto, a label abaixo precisa ser colocada:
+
+* `cliente:aprovou`
 
 ## Revisão (gerência)
 
-Quando uma tarefa é finalizada (fechada), ela passa para a coluna `Em revisão`. Quando isso acontecer, o fluxo será o seguinte:
+ Qualquer tarefa que tiver `texto:ok`, `gráfico:ok` e `técnico:ok` está praticamente pronta.
 
-7. Um membro da gerência revisa a tarefa:
- * Se tudo estiver ok e nenhuma revisão de conteúdo é necessária, mover a carta para a coluna `Pronto e revisado`.
- * Se tudo estiver ok, mas uma revisão de conteúdo é necessária, adicionar o label `revisar:conteudo`. Nesse caso, a tarefa aguarda apenas a revisão da equipe de conteúdo.
- * Se o membro da gerência julgar que faltar algo na tarefa, ela é reaberta (`Re-open`) (a tarefa passa automaticamentepara para a coluna `Fazer` quando isso acontece) e comentários são feitos sobre o que falta.
-
-## Revisão (conteúdo)
-
-A partir desse ponto, a tarefa foi aprovada pela gerência, falta apenas a revisão de conteúdo. Clique [aqui](https://github.com/practice-uffs/programa/labels/revisar%3Aconte%C3%BAdo) para listar todas as issues que estão na coluna `Em revisão` e que possuem o label `revisar-conteúdo`.
-
-A partir disso, para cada tarefa que precisa de revisão de conteúdo:
-
-8. Um membro da revisão de conteúdo adiciona a label `revisando:conteúdo` e comenta até quando a revisão estará pronta
-9. A revisão de conteúdo é feito pelos responsáveis
- * Se precisar da ajuda do responsável pela tarefa para aplicar a revisão, reabra (`Re-open`) a tarefa e comente o que precisa.
-10. Se a revisão foi feita e o documento está pronto, remova a label `revisando:conteúdo`, adicione a label `revisado:conteúdo`, e mova a carta para a coluna `Pronto e revisado`.
+* Se tudo estiver ok e nenhuma revisão de conteúdo é necessária, adicionar `gerência:ok` e fechar a tarefa.
+* Se você julgar que coisas precisam ser feitas, remova os labels `*:ok` conforme você julgar, e.x.: remover `texto:ok` se há problemas com o texto`.
+  * Escrever o que não está bom e o que precisa ser alterado.
+  * Mencioar a equipe responsável pela mudança, ex.: `@pratice-uffs/con-material`.
 
 # Equipes e membros
 
