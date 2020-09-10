@@ -2,7 +2,7 @@
 
 Esse site contém instruções que cada equipe (e seus integrantes) do [PRACTICE](https://practice.uffs.cc) deve seguir para produzir conteúdo. Utilize o menu do lado esquerdo para saber mais sobre um determinado assunto.
 
-# Identidade visual do programa
+# Identidade visual
 
 * [Logos e arquivos em geral](https://drive.google.com/drive/folders/1ymOvitNBOkBeU2RStVchrD6Rg8Ar4FB-)
 * [Paleta de cores](https://drive.google.com/file/d/1vo1DDX0zXA8rnZ_tm6VHDU5DzZPV1yOs)
