@@ -2,16 +2,18 @@
 
 Esse site contém instruções que cada equipe (e seus integrantes) do [PRACTICE](https://practice.uffs.cc) deve seguir para produzir conteúdo. Utilize o menu do lado esquerdo para saber mais sobre um determinado assunto.
 
-## Links rápidos
+# Identidade visual do programa
 
-### Identidade visual
-* [Arquivos de identidade visual do programa](https://drive.google.com/drive/folders/1ymOvitNBOkBeU2RStVchrD6Rg8Ar4FB-)
+* [Logos e arquivos em geral](https://drive.google.com/drive/folders/1ymOvitNBOkBeU2RStVchrD6Rg8Ar4FB-)
+* [Paleta de cores](https://drive.google.com/file/d/1vo1DDX0zXA8rnZ_tm6VHDU5DzZPV1yOs)
 
-### Pastas de trabalho no Google Drive
+# Links rápidos
+
+### Pastas no Google Drive
 * [Pasta de todo programa](https://drive.google.com/drive/folders/1awqYC9rMMGVIrrYheihE5rSf1lHHisJw)
 * [Pasta de tarefas](https://drive.google.com/drive/folders/1aBjyA92_IdiPJokAJyBF9HtIKzMIVqvQ)
 
-### Github, repositórios e controle de projetos
+### Github e controle de projetos
 * [Lista de repositórios/projetos do programa no Github](https://github.com/practice-uffs)
 * [Repositório principal do programa no Github](https://github.com/practice-uffs/programa)
 
@@ -19,8 +21,7 @@ Esse site contém instruções que cada equipe (e seus integrantes) do [PRACTICE
 * [Quadro com tarefas da sprint](https://github.com/orgs/practice-uffs/projects/1)
 * [Site oficial do programa](https://practice.uffs.edu.br) (provisoriamente é [practice.uffs.cc](https://practice.uffs.cc]))
 
-
-## Dez mandamentos da equipe
+# Dez mandamentos da equipe
 
 1. **Nunca** usarei materiais que não informam sua licença de uso;
 2. Só usarei materiais licenciados como: [domínio público](https://creativecommons.org/share-your-work/public-domain/cc0/) (CC0 ou _public domain_), [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.pt), [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt), ou [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.pt);
@@ -33,10 +34,6 @@ Esse site contém instruções que cada equipe (e seus integrantes) do [PRACTICE
 9. Usarei WhatsApp/Telegram para agilizar a comunicação, não para substituir discussões nos issues;
 10. Participarei das reuniões de sprint todas as sexta-feiras.
 
-## Identidade visual do programa
-
-* [Logos e arquivos em geral](https://drive.google.com/drive/folders/1ymOvitNBOkBeU2RStVchrD6Rg8Ar4FB-)
-* Cores
 
 # Onde consigo materiais?
 
