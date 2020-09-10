@@ -4,13 +4,21 @@ Esse site contém instruções que cada equipe (e seus integrantes) do [PRACTICE
 
 ## Links rápidos
 
-* [Pasta do Google Drive do programa](https://drive.google.com/drive/folders/1awqYC9rMMGVIrrYheihE5rSf1lHHisJw)
-* [Pasta de tarefas do Google Drive do programa](https://drive.google.com/drive/folders/1aBjyA92_IdiPJokAJyBF9HtIKzMIVqvQ)
+### Identidade visual
+* [Arquivos de identidade visual do programa](https://drive.google.com/drive/folders/1ymOvitNBOkBeU2RStVchrD6Rg8Ar4FB-)
+
+### Pastas de trabalho no Google Drive
+* [Pasta de todo programa](https://drive.google.com/drive/folders/1awqYC9rMMGVIrrYheihE5rSf1lHHisJw)
+* [Pasta de tarefas](https://drive.google.com/drive/folders/1aBjyA92_IdiPJokAJyBF9HtIKzMIVqvQ)
+
+### Github, repositórios e controle de projetos
 * [Lista de repositórios/projetos do programa no Github](https://github.com/practice-uffs)
 * [Repositório principal do programa no Github](https://github.com/practice-uffs/programa)
+
+### Geral
 * [Quadro com tarefas da sprint](https://github.com/orgs/practice-uffs/projects/1)
 * [Site oficial do programa](https://practice.uffs.edu.br) (provisoriamente é [practice.uffs.cc](https://practice.uffs.cc]))
-* [Identidade visual do programa](https://drive.google.com/drive/folders/1ymOvitNBOkBeU2RStVchrD6Rg8Ar4FB-)
+
 
 ## Dez mandamentos da equipe
 
