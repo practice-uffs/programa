@@ -1,15 +1,20 @@
 ---
-name: Solicitação de Auxilio em Transmissão Ao Vivo
+name: Demanda de Auxilio em Transmissão Ao Vivo
 about: Template para tarefa de auxilio em transmissão ao vivo 
-title: 'Live '
+title: 'Live (titulo, data e hora da live)'
 labels: 'serviço:live, equipe:con-midia, P3'
-assignees: 'luizatonial, MilenaPaz2020'
+assignees: 'luizatonial, MilenaPaz2020, pedroamaximowski'
+project: 'Geral'
 
 ---
 
 # Informações Transmissão ao vivo:
 
+**Titulo**:
+
 **Data e Hora**:
+
+**Evento** (se houver):
 
 **Solicitante**:
 
@@ -17,9 +22,14 @@ assignees: 'luizatonial, MilenaPaz2020'
 
 **Link Transmissão**:
 
+Com os dados e roteiro em mãos, o membro do PRACTICE deve seguir o protocolo e estabelecer contato com o solicitante.
 
-Com os dados e roteiro em mãos, o membro do practice deve estabelecer contato com o solicitante para que os detalhes fiquem claros.
+(Os links abaixo ainda não estão finalizados)
 
 **[Planilha de Lives](https://drive.google.com/drive/folders/16h-YVwTnRF49eqBYBRONKyLqPbisCIbH)**
 
-CC: @con-midia
+**[Protocolo de Execução de Lives]()**
+
+**[Padronização de Lives]()**
+
+CC: @con-midia / lives
