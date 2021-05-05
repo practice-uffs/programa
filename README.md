@@ -1,12 +1,12 @@
 <p align="center">
-    <img width="400" height="200" src=".github/logo.png" title="Logo do projeto"><br />
-    <img src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge" title="Status do projeto">
-    <img src="https://img.shields.io/github/workflow/status/ccuffs/template/ci.uffs.cc?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Status do build">
+    <img width="350" height="350" src=".github/logo.png" style="border-radius: 10px; margin: 10px;" title="Logo do projeto"><br />
+    <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge" title="Status do projeto">
+    <img src="https://img.shields.io/github/workflow/status/practice-uffs/programa/ci.uffs.cc?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Status do build">
 </p>
 
-# Título
+<h1 align="center"> Programa PRACTICE </h1>
 
-Coloque uma descrição do projeto aqui. Geralmente essa descrição tem de duas a três linhas de tamanho. Ela deve dar uma visão geral sobre o que é o projeto, ex.: tecnologia usada, filosofia de existência, qual problema tenta-se resolver, etc. Se você precisa escrever mais que 3 linhas de descrição, crie subseções.
+Este repositório é destinado a todas as movimentações de demandas do programa. Todas as atividades relacionadas a produção de conteudo e demandas organizacionais do PRACTICE estão nas issues do repositório.
 
 > **IMPORTANTE:** coloque aqui alguma mensagem que é muito relevante aos usuários do projeto, se for o caso.
 
@@ -60,10 +60,10 @@ Esse projeto é licenciado nos termos da licença open-source [Apache 2.0](https
 
 Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md).
 
-## Projetos semelhates
+## Projetos de Desenvolvimento
 
-Abaixo está uma lista de links interessantes e projetos similares:
+O PRACTICE também atua no desenvolvimento de softwares voltados para comunidade academica, como o Mural e o APP do programa:
 
-* [Outro projeto](https://github.com/projeto)
-* [Projeto inspiração](https://github.com/projeto)
-* [Ferramenta semelhante](https://github.com/projeto)
+* [Web-Feedback](https://github.com/practice-uffs/web-feedback)
+* [Site PRACTICE](https://github.com/practice-uffs/website-programa)
+* [APP PRACTICE](https://github.com/practice-uffs/app-practice)
