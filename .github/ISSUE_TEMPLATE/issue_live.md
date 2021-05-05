@@ -20,6 +20,8 @@ assignees: 'luizatonial, MilenaPaz2020, pedroamaximowski'
 
 **Palestrante Principal**:
 
+**Solicitação no Mural**:
+
 **Link Transmissão**:
 
 Com os dados e roteiro em mãos, o responsável pela Live deve seguir os padrões do PRACTICE e estabelecer contato com o solicitante, enviando inicialmente o Protocolo de Execução de Lives.
