@@ -32,4 +32,6 @@ Com os dados e roteiro em mãos, o responsável pela Live deve seguir os padrõe
 
 **[Padronização de Lives](https://drive.google.com/file/d/1Bky3nLRTAoCejzHrH0D93GQ_gjsa4Hxl/view?usp=sharing)**
 
+**[TeleCurso 2000](https://drive.google.com/drive/folders/1r_Gea2VxB3J-4VfIXr9jqXa2NgStNvCs?usp=sharing)**
+
 CC: @con-midia / lives
