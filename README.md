@@ -8,49 +8,18 @@
 
 Este repositório é destinado a todas as movimentações de demandas do programa. Todas as atividades relacionadas a produção de conteudo e demandas organizacionais do PRACTICE estão nas issues do repositório.
 
-> **IMPORTANTE:** coloque aqui alguma mensagem que é muito relevante aos usuários do projeto, se for o caso.
+> **IMPORTANTE:** Todas as atividades realizadas pelo programa devem estar em issues, seja nesse repositório ou nos outros repositórios do programa
 
-## Features
+## Equipes
 
-Aqui você pode colocar uma screenshot do produto resultante desse projeto. Descreva também suas features usando uma lista:
+O PRACTICE conta com uma equipe multidisciplinar de membros e coordenadores. O programa atua em diversas frentes de desenvolvimento, dividas nas seguintes equipes:
 
-* Fácil integração;
-* Poucas dependências;
-* Utiliza um template lindo para organizar o `README`;
-* Possui ótima documentação e testes.
-
-## Começando
-
-### 1. Primeiro passo para começar
-
-Geralmente o primeiro passo para começar é instalar dependências para rodar o projeto. Rode:
-
-```
-apt get install dependencia
-```
-
-Recomenda-se que cada comando seja colocado em uma linha diferente:
-
-```
-apt get install outra-coisa
-```
-
-Dessa forma os usuários podem copiar e colar sem ler as documentação (que é o que geralmente acontece).
-
-### 2. Outro(s) passo(s)
-
-Geralmente os próximos passos ensinam como instalar e configurar o projeto para uso/desenvolvimento. Rode:
-
-```
-git clone https://github.com/ccuffs/template template
-```
-
-## Contribua
-
-Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para conhecer todas as formas de contribuir com o projeto. Por exemplo, [sugerir uma nova funcionalidade](https://github.com/ccuffs/template/issues/new?assignees=&labels=&template=feature_request.md&title=), [reportar um problema/bug](https://github.com/ccuffs/template/issues/new?assignees=&labels=bug&template=bug_report.md&title=), [enviar um pull request](https://github.com/ccuffs/hacktoberfest/blob/master/docs/tutorial-pull-request.md), ou simplemente utilizar o projeto e comentar sua experiência.
-
-Veja o arquivo [ROADMAP.md](ROADMAP.md) para ter uma ideia de como o projeto deve evoluir.
-
+* Ger-Auxilio: Auxilio operaciona;
+* Ger-Comunicação: Comunicação
+* Con-Contéudo: Produção de conteúdo - Texto e imagem
+* Con-Design: Design gráfico
+* Con-Mídia: Produção de conteúdo - Áudio, vídeo e transmissçoes ao vivo
+* Dev: Desenvolvimento de software
 
 ## Licença
 
