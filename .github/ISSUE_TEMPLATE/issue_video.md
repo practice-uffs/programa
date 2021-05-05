@@ -23,4 +23,8 @@ assignees: 'luizdameda, amandasegattob, robisonjose, vini2reis'
 
 **[Planilha de Vídeos Externos](https://docs.google.com/spreadsheets/d/17fyR7tVs16PX9SGJ8ghkU4jM8W9UoSqlCE3hm2FrOzk/edit?usp=sharing)**
 
+**[Padronização de Vídeos](https://drive.google.com/drive/folders/1xO-UT8A2VCMIUuTxqJxiMpGS0FkLC-0V?usp=sharing)**
+
+**[TeleCurso 2000](https://drive.google.com/drive/folders/1r_Gea2VxB3J-4VfIXr9jqXa2NgStNvCs?usp=sharing)**
+
 CC: @con-midia / vídeos
