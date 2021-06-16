@@ -3,7 +3,7 @@ name: Demanda de Auxilio em Transmissão Ao Vivo
 about: Template para tarefa de auxilio em transmissão ao vivo 
 title: 'Live (titulo, data e hora da live)'
 labels: 'serviço:live, equipe:con-mídia, P3'
-assignees: 'luizatonial, MilenaPaz2020, pedroamaximowski'
+assignees: 'luizatonial, MaNegrao, pedroamaximowski'
 ---
 
 <h1 align="center" >Informações Transmissão Ao Vivo</h1>

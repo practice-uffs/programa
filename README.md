@@ -1,56 +1,25 @@
 <p align="center">
-    <img width="400" height="200" src=".github/logo.png" title="Logo do projeto"><br />
-    <img src="https://img.shields.io/maintenance/yes/2020?style=for-the-badge" title="Status do projeto">
-    <img src="https://img.shields.io/github/workflow/status/ccuffs/template/ci.uffs.cc?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Status do build">
+    <img width="350" height="350" src=".github/logo.png" style="border-radius: 10px; margin: 10px;" title="Logo do projeto"><br />
+    <img src="https://img.shields.io/maintenance/yes/2021?style=for-the-badge" title="Status do projeto">
+    <img src="https://img.shields.io/github/workflow/status/practice-uffs/programa/ci.uffs.cc?label=Build&logo=github&logoColor=white&style=for-the-badge" title="Status do build">
 </p>
 
-# Título
+<h1 align="center"> Programa PRACTICE </h1>
 
-Coloque uma descrição do projeto aqui. Geralmente essa descrição tem de duas a três linhas de tamanho. Ela deve dar uma visão geral sobre o que é o projeto, ex.: tecnologia usada, filosofia de existência, qual problema tenta-se resolver, etc. Se você precisa escrever mais que 3 linhas de descrição, crie subseções.
+Este repositório é destinado a todas as movimentações de demandas do programa. Todas as atividades relacionadas a produção de conteudo e demandas organizacionais do PRACTICE estão nas issues do repositório.
 
-> **IMPORTANTE:** coloque aqui alguma mensagem que é muito relevante aos usuários do projeto, se for o caso.
+> **IMPORTANTE:** Todas as atividades realizadas pelo programa devem estar em issues, seja nesse repositório ou nos outros repositórios do programa
 
-## Features
+## Equipes
 
-Aqui você pode colocar uma screenshot do produto resultante desse projeto. Descreva também suas features usando uma lista:
+O PRACTICE conta com uma equipe multidisciplinar de membros e coordenadores. O programa atua em diversas frentes de desenvolvimento, dividas nas seguintes equipes:
 
-* Fácil integração;
-* Poucas dependências;
-* Utiliza um template lindo para organizar o `README`;
-* Possui ótima documentação e testes.
-
-## Começando
-
-### 1. Primeiro passo para começar
-
-Geralmente o primeiro passo para começar é instalar dependências para rodar o projeto. Rode:
-
-```
-apt get install dependencia
-```
-
-Recomenda-se que cada comando seja colocado em uma linha diferente:
-
-```
-apt get install outra-coisa
-```
-
-Dessa forma os usuários podem copiar e colar sem ler as documentação (que é o que geralmente acontece).
-
-### 2. Outro(s) passo(s)
-
-Geralmente os próximos passos ensinam como instalar e configurar o projeto para uso/desenvolvimento. Rode:
-
-```
-git clone https://github.com/ccuffs/template template
-```
-
-## Contribua
-
-Sua ajuda é muito bem-vinda, independente da forma! Confira o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para conhecer todas as formas de contribuir com o projeto. Por exemplo, [sugerir uma nova funcionalidade](https://github.com/ccuffs/template/issues/new?assignees=&labels=&template=feature_request.md&title=), [reportar um problema/bug](https://github.com/ccuffs/template/issues/new?assignees=&labels=bug&template=bug_report.md&title=), [enviar um pull request](https://github.com/ccuffs/hacktoberfest/blob/master/docs/tutorial-pull-request.md), ou simplemente utilizar o projeto e comentar sua experiência.
-
-Veja o arquivo [ROADMAP.md](ROADMAP.md) para ter uma ideia de como o projeto deve evoluir.
-
+* Ger-Auxilio: Auxilio operaciona;
+* Ger-Comunicação: Comunicação
+* Con-Contéudo: Produção de conteúdo - Texto e imagem
+* Con-Design: Design gráfico
+* Con-Mídia: Produção de conteúdo - Áudio, vídeo e transmissçoes ao vivo
+* Dev: Desenvolvimento de software
 
 ## Licença
 
@@ -60,10 +29,10 @@ Esse projeto é licenciado nos termos da licença open-source [Apache 2.0](https
 
 Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md).
 
-## Projetos semelhates
+## Projetos de Desenvolvimento
 
-Abaixo está uma lista de links interessantes e projetos similares:
+O PRACTICE também atua no desenvolvimento de softwares voltados para comunidade academica, como o Mural e o APP do programa:
 
-* [Outro projeto](https://github.com/projeto)
-* [Projeto inspiração](https://github.com/projeto)
-* [Ferramenta semelhante](https://github.com/projeto)
+* [Web-Feedback](https://github.com/practice-uffs/web-feedback)
+* [Site PRACTICE](https://github.com/practice-uffs/website-programa)
+* [APP PRACTICE](https://github.com/practice-uffs/app-practice)
