@@ -14,12 +14,12 @@ Este repositório é destinado a todas as movimentações de demandas do program
 
 O PRACTICE conta com uma equipe multidisciplinar de membros e coordenadores. O programa atua em diversas frentes de desenvolvimento, dividas nas seguintes equipes:
 
-* Ger-Auxilio: Auxilio operaciona;
-* Ger-Comunicação: Comunicação
-* Con-Contéudo: Produção de conteúdo - Texto e imagem
-* Con-Design: Design gráfico
-* Con-Mídia: Produção de conteúdo - Áudio, vídeo e transmissçoes ao vivo
-* Dev: Desenvolvimento de software
+* `ger-aux`: Auxílio operacional;
+* `ger-comunicação`: Comunicação
+* `con-contéudo`: Produção de conteúdo - Texto e imagem
+* `con-design`: Design gráfico
+* `con-mídia`: Produção de conteúdo - Áudio, vídeo e transmissões ao vivo
+* `dev`: Desenvolvimento de software
 
 ## Licença
 
