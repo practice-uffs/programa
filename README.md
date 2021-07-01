@@ -14,7 +14,7 @@ Este repositório é destinado a todas as movimentações de demandas do program
 
 O PRACTICE conta com uma equipe multidisciplinar de membros e coordenadores. O programa atua em diversas frentes de desenvolvimento, dividas nas seguintes equipes:
 
-* `ger-aux`: Auxílio operacional;
+* `ger-aux`: Auxílio operacional
 * `ger-comunicação`: Comunicação
 * `con-contéudo`: Produção de conteúdo - Texto e imagem
 * `con-design`: Design gráfico
@@ -33,6 +33,6 @@ Veja todas as alterações desse projeto no arquivo [CHANGELOG.md](CHANGELOG.md)
 
 O PRACTICE também atua no desenvolvimento de softwares voltados para comunidade academica, como o Mural e o APP do programa:
 
-* [Web-Feedback](https://github.com/practice-uffs/web-feedback)
+* [Mural](https://github.com/practice-uffs/web-feedback)
 * [Site PRACTICE](https://github.com/practice-uffs/website-programa)
 * [APP PRACTICE](https://github.com/practice-uffs/app-practice)
