@@ -18,6 +18,12 @@ assignees: 'luizdameda, amandasegattob, robisonjose, vini2reis'
 
 **Solicitação no Mural**:
 
+**Prazo de entrega para revisão interna**:
+
+**Prazo de entrega da primeira versão para o cliente**:
+
+**Prazo de entrega versão final**:
+
 
 **[Planilha de Vídeos Internos](https://docs.google.com/spreadsheets/d/1b7sNcCTQxXXZr4FtC6GtYyAxpd3cPin3ZjUeckLphOI/edit?usp=sharing)**
 
