@@ -3,7 +3,7 @@ name: Demanda de Vídeo
 about: Template para tarefa de produção de vídeo
 title: 'Vídeo (titulo)'
 labels: 'serviço:vídeo, equipe:con-mídia, P3'
-assignees: 'luizdameda, amandasegattob, robisonjose, vini2reis'
+assignees: 'amandasegattob, robisonjose'
 ---
 
 <h1 align="center" >Informações Produção do Vídeo</h1>
