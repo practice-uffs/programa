@@ -3,7 +3,7 @@ name: Demanda de Auxilio em Transmissão Ao Vivo
 about: Template para tarefa de auxilio em transmissão ao vivo 
 title: 'Live (titulo, data e hora da live)'
 labels: 'serviço:live, equipe:con-mídia, P3'
-assignees: 'luizatonial, S4ntin, annacarolis, MariaLuizaReviliau, GessicaZanon'
+assignees: 'luizatonial, MariaLuizaReviliau'
 ---
 
 <h1 align="center" >Informações da Transmissão Ao Vivo</h1>
@@ -29,8 +29,6 @@ Com os dados e roteiro em mãos, o responsável pela Live deve seguir os padrõe
 **[Planilha de Lives](https://drive.google.com/drive/folders/16h-YVwTnRF49eqBYBRONKyLqPbisCIbH)**
 
 **[Protocolo de Execução de Lives](https://drive.google.com/file/d/1KQ9vI1gKECqWHi4xwb3LrnuWCgKEHWyd/view?usp=sharing)**
-
-**[Padronização de Lives](https://drive.google.com/file/d/1CldqvcbHPleVFd-ZKcigHhSua0VdR0mi/view?usp=sharing)**
 
 **[TeleCurso 2000](https://drive.google.com/drive/folders/1r_Gea2VxB3J-4VfIXr9jqXa2NgStNvCs?usp=sharing)**
 
